@@ -1,5 +1,5 @@
 {
-  "name": "@obolnetwork/obol-ui",
+  "name": "obol-ui",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -49,7 +49,7 @@
     "typescript": "^4.6.3"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   }
 }
